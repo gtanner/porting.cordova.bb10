@@ -29,9 +29,10 @@ floor and go down into the audience to setup their laptops.  Could really suck b
 
 # Needed:
 
-- USB Key with phonegap download
+- USB Key with phonegap download (Mike will provide)
 - Laptop setup with all BlackBerry SDK's (Gord's laptop can do this ;))
 - PlayBook (Gord can provide)
 - DevAlpha (Gord can provide)
 - OS7 device (Gord can provide)
-- Android device
+- Android device (Fil can provide)
+- Beer (RIM should provide)
